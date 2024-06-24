@@ -2,7 +2,7 @@
  * EEPROM_DRIVER.c
  *
  * Created: 09/03/2024 03:23:04 ص
- *  Author: FREINDS
+ *  Author: Hazem Ragab Elsayed
  */ 
 #include"std_macros.h"
 #include<avr/io.h>
