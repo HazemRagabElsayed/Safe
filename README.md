@@ -1,5 +1,5 @@
 # Safe
-This project is a Safe (a closed box where you keep your money safe) which asks user to create a password if it runs for its first time but if it is turned off and turned on after creating password it asks user for password to enter to compare it to previously created password, there is a number of tries for incorrect password and if user enters wrong passwords that exceed number of tries,it is displayed on LCD "Wrong Password Safe is closed"
+This project is a Safe (a closed box where you keep your money safe) which asks user to create a password if it runs for its first time but if it is turned off and turned on after creating password it asks user for password to enter to compare it to previously created password
 
 
 
