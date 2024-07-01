@@ -28,4 +28,4 @@ This project is a Safe (a closed box where you keep your money safe) which asks 
 
 -there is a video provided in code folder
 
--there is a folder with code that is used for hardware as components are different in some things and this folder also contains video of hardware implementation
+-there is a folder with code that is used for hardware as components are different in some things
